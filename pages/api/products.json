@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "Sick Design for POAP",
+    "price": "11.69",
+    "description": "We will work, while you do nothing",
+    "image_url": "https://cloudflare-ipfs.com/ipfs/QmX11vu5qqVvJyfMaSgwjurdGy1tP56Skqv25HybxUwGxw",
+    "filename": "hackMoneyPoap.png",
+    "hash": "QmX11vu5qqVvJyfMaSgwjurdGy1tP56Skqv25HybxUwGxw"
+  },
+  {
+    "id": 2,
+    "name": "Dev_Dao",
+    "price": "11.69",
+    "image_url": "ttps://cloudflare-ipfs.com/ipfs/QmSoZ2JRFuvh6HCJhpDLjAgkvWq42Q8Hx8q1chkwnB91wv",
+    "description": "Bodega Poap"
+  },
+  {
+    "id": 3,
+    "name": "Poap2",
+    "price": "69.69",
+    "image_url": "https://cloudflare-ipfs.com/ipfs/QmcjjkyT4D1mVBwFCkYzFdSPWSe1L5z2ExurcBCBccDDME",
+    "description": "Chapito POAP"
+  }
+]
