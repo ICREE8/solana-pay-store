@@ -1,4 +1,4 @@
-# buildspace Store on Solana Pay Project
+#  Solana Pay Project (tienda)
 
 ### **Welcome 👋**
 
